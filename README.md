@@ -17,7 +17,7 @@ class Cytro():
     self.username = "Cytro";
     self.location = "Lagos, Nigeria";
     self.twitter = "@cytro";
-    self.web = "https://abhigyantrips.dev";
+    self.web = "Not Yet.";
 
   def __str__(self):
     return self.name
