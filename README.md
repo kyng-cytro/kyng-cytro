@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/-Nuxt%20JS-42D392?style=for-the-badge&logo=Nuxt.js&logoColor=42D392&labelColor=282828">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=c58545&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Typescript-02569B?style=for-the-badge&logo=Typescript&labelColor=282828">
 </div>
 </p>
 
