@@ -19,6 +19,16 @@ class Cytro():
     self.twitter = "@cytro";
     self.projects = [
       {
+          "name": "Over Tune",
+          "description": "Chrome extension that allows you to fully customize your YouTube Music experience.",
+          "link": "https://github.com/kyng-cytro/over-tune"
+      },      
+      {
+          "name": "Cy TTY",
+          "description": "A mobile SSH terminal for Android & iOS",
+          "link": "https://github.com/kyng-cytro/cy-tty"
+      },      
+      {
           "name": "Cylip Notes",
           "description": "A real-time note-taking app with labels, backgrounds, and SSE/WebSockets.",
           "link": "https://cylip-notes.cytro.com.ng"
